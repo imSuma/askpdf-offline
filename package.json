@@ -10,12 +10,13 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "react": "^19.1.1",
-    "react-dom": "^19.1.1",
     "@mlc-ai/web-llm": "^0.2.79",
     "@tailwindcss/vite": "^4.1.11",
+    "@vercel/analytics": "^1.5.0",
     "lucide-react": "^0.469.0",
     "pdfjs-dist": "^4.9.155",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
     "react-pdf": "^9.1.1",
     "tailwindcss": "^4.1.11"
   },
